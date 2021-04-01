@@ -3,7 +3,7 @@ use Mix.Config
 # Configure your database
 config :app, App.Repo,
   username: "postgres",
-  password: "postgres",
+  password: "Pass2021!", # super secure password saved in a git repo. Hell yeah
   database: "app_dev",
   hostname: "localhost",
   show_sensitive_data_on_connection_error: true,

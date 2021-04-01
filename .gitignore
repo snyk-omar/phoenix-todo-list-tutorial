@@ -53,3 +53,5 @@ results
 test/coverage.html
 coverage/
 cover/
+
+data/*
